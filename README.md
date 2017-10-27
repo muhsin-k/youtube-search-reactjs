@@ -2,7 +2,7 @@
 Simple Youtube search using  Redux with React and Babel support
 
 
-##Prerequisites.
+## Prerequisites.
 
 * node.js
 * npm
