@@ -29,3 +29,7 @@ The application will run at the port 8080
 
 
 
+License
+----
+
+MIT
